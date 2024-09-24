@@ -19,7 +19,7 @@ Developed a visually appealing and responsive **bakery shop landing page** using
 - Clone the repository:
   - _git clone https://github.com/Prokopovych16/landing_bakery.git_
 - Navigate to the project folder:
-  - _cd landing_kickstarter_
+  - _cd landing_bakery_
 - Install dependencies:
   - _npm install_
 - Run the project:
